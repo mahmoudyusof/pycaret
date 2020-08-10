@@ -37,12 +37,12 @@ Datasets
 
 Clustering
 ===================
-.. automodule:: pycaret.Clustering
+.. automodule:: pycaret.clustering
    :members:
 
 Classification
 ===================
-.. automodule:: pycaret.Classification
+.. automodule:: pycaret.classification
    :members:
 
 Arules
